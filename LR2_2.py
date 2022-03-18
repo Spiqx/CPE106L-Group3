@@ -1,6 +1,6 @@
 
 #CPE106L-B3 - GROUP 3
-#LABORATORY 2 (POST-LAB PROBLEM)
+#LABORATORY 2 (POST-LAB)
 
 #2. Filename: LR2_2.py
 #Write a program that allows the user to navigate the lines of text in a file. The program
