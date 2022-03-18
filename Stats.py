@@ -1,6 +1,6 @@
 
 #CPE106L-B3 - GROUP 3
-#LABORATORY 2 (POST-LAB PROBLEM)
+#LABORATORY 2 (POST-LAB)
 
 
 #1. Filename: stats.py
