@@ -99,8 +99,8 @@ class Bank:
         fileObj.close()
        
 def createBank(numAccounts = 1):
-    names = ("Brandon", "Jack", "Mark", "Elena", "Tricia",
-             "Ken", "Jill", "Molly")
+    names = ("Chad", "Rick", "Morty", "Yoru", "Patricia",
+             "Ken", "Ryu", "Nick")
     bank = Bank()
     upperPin = numAccounts + 1000
     for pinNumber in range(1000, upperPin):
